@@ -1,6 +1,8 @@
 # STM32 Nucleo-F303RE onekey
 
-To trigger keypress, short together pins *A1* and *A2*.
+[Baord info](https://os.mbed.com/platforms/ST-Nucleo-F303RE/)
+
+To trigger keypress, short together pins *A0* and *A1*.
 
 You'll also need to connect:
 
